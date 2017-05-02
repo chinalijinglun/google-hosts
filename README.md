@@ -23,4 +23,11 @@
 
 
 ##  Donate
-![alipay](donate/alipay.jpg =250x)
+### Alipay
+<img src="https://github.com/rootbyos/google-hosts/blob/master/donate/alipay.jpg" width="400px" alt="支付宝扫描二维码捐赠" >
+
+### WeChat
+<img src="https://github.com/rootbyos/google-hosts/blob/master/donate/wechat.png" width="400px" alt="支付宝扫描二维码捐赠" >
+
+### Paypal
+[Paypal](https://www.paypal.me/rootbyos)
