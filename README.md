@@ -23,4 +23,4 @@
 
 
 ##  Donate
-![alipay](donate/alipay.jpg)
+![alipay](donate/alipay.jpg =250x)
