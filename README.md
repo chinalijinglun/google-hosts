@@ -3,7 +3,7 @@
 ##  Usage
 - Microsoft Windows OS location <br />
 
-    	C:\Windows\System32\drivers\etc\hosts
+      C:\Windows\System32\drivers\etc\hosts
       
 - Linux OS location <br />
 
